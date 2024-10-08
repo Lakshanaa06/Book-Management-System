@@ -1,0 +1,27 @@
+ul{
+		list-style-type:none;
+		margin:0;
+		padding:0;
+		overflow:hidden;
+		background-color:#ED2C77;
+	}	
+	li {float:left;}
+	li a{
+		display:block;
+		padding:8px 16px;
+		text-decoration:none;
+		color:white;
+	}
+	li a:hover{
+		background-color:grey;
+		color:white;
+	}
+body
+{
+	background-image:url("saff.jpeg");
+	background-position:center;
+	backgeound-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:cover;
+
+}

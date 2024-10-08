@@ -1,0 +1,38 @@
+body
+{
+	background-image:url("background.jpg");
+	background-position:center;
+	backgeound-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:cover;
+
+}
+p{
+	font-size:18pt;
+	color:periwinkle;
+	text-indent:lem;
+	font-family:Garamond;
+}
+
+
+ul{
+		list-style-type:none;
+		margin:0;
+		padding:0;
+		overflow:hidden;
+		background-color:lavender;
+	}	
+	li {float:left;}
+	li a{
+		display:block;
+		padding:8px 16px;
+		text-decoration:none;
+	}
+	li a:hover{
+		background-color:grey;
+		color:white;
+	}
+h1{
+	color:white;
+	margin-left:20px;
+}
